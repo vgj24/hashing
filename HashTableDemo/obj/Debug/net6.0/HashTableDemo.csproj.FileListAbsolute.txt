@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\HashTableDemo\bin\Debug\net6.0\HashTableDemo.exe
+C:\Users\vgj24\source\repos\HashTableDemo\bin\Debug\net6.0\HashTableDemo.deps.json
+C:\Users\vgj24\source\repos\HashTableDemo\bin\Debug\net6.0\HashTableDemo.runtimeconfig.json
+C:\Users\vgj24\source\repos\HashTableDemo\bin\Debug\net6.0\HashTableDemo.dll
+C:\Users\vgj24\source\repos\HashTableDemo\bin\Debug\net6.0\ref\HashTableDemo.dll
+C:\Users\vgj24\source\repos\HashTableDemo\bin\Debug\net6.0\HashTableDemo.pdb
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.dll
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\ref\HashTableDemo.dll
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.pdb
+C:\Users\vgj24\source\repos\HashTableDemo\obj\Debug\net6.0\HashTableDemo.genruntimeconfig.cache
